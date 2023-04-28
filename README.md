@@ -1,6 +1,6 @@
 # Tools for working with ST17H66 BLE 5 chipsets
 
-Lenzetech [https://www.lenzetech.com/] ST17H66 chipsets [https://www.lenzetech.com/public/store/pdf/jsggs/ST17H66B2_BLE_SoC_Datasheet_v1.1.2.pdf] can be founnd in a number of home consumer IoTs - i.e. device tracking tags and RGB LED controllers.
+[Lenzetech](https://www.lenzetech.com/) ST17H66 chipsets ([PDF datasheet](https://www.lenzetech.com/public/store/pdf/jsggs/ST17H66B2_BLE_SoC_Datasheet_v1.1.2.pdf) can be founnd in a number of home consumer IoTs - i.e. device tracking tags and RGB LED controllers.
 
 Their tooling is based on Kiel IDE and a custom downloader.
 
