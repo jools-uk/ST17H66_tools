@@ -10,7 +10,11 @@ This repo is a combination of ideas pulled from other makers on how to program a
 
 # Main GUI
 
-Top level, there is a simple GUI which allows you to connect to a chip over raw UART RX/TX lines and execute simple commands
+Top level, there is a simple GUI which allows you to connect to a chip over raw UART RX/TX lines and execute simple commands.
+
+Runs completely from Python (I'm using Python 3.10)
+
+Depends upon pythong package pysimplegui and system package tkinter (eg python3-tk on Ubuntu)
 
 # Notes
 
