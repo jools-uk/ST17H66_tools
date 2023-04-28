@@ -1,10 +1,10 @@
 # Tools for working with ST17H66 BLE 5 chipsets
 
-[Lenzetech](https://www.lenzetech.com/) ST17H66 chipsets ([PDF datasheet](https://www.lenzetech.com/public/store/pdf/jsggs/ST17H66B2_BLE_SoC_Datasheet_v1.1.2.pdf)) can be founnd in a number of home consumer IoTs - i.e. device tracking tags and RGB LED controllers.
+[Lenzetech](https://www.lenzetech.com/) ST17H66 chipsets ([PDF datasheet](https://www.lenzetech.com/public/store/pdf/jsggs/ST17H66B2_BLE_SoC_Datasheet_v1.1.2.pdf)) can be founnd in a number of home consumer IoTs - e.g. device tracking tags, RGB LED controllers, ...
 
 Their tooling is based on Kiel IDE and a custom downloader.
 
-There is no documentation / datasheet on how to prorgam the chip otehr than using their own LeKit tooling
+There is no documentation or datasheet on how to progtam the chip other than using their own LeKit tooling
 
 This repo is a combination of ideas pulled from other makers on how to program and probe the ST17H66 chip over UART
 
